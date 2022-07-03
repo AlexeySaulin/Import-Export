@@ -1,0 +1,26 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app.js",
+  "scripts": {
+    "serve": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeySaulin/Import-Export.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Alexey Saulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeySaulin/Import-Export/issues"
+  },
+  "homepage": "https://github.com/AlexeySaulin/Import-Export#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
